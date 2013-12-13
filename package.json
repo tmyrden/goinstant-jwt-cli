@@ -1,0 +1,13 @@
+{
+  "name": "goinstant-jwt-cli",
+  "version": "0.0.1",
+  "description": "JWT CLI for GoInstant",
+  "main": "app.js",
+  "author": "Thomas Myrden",
+  "license": "MIT",
+  "dependencies": {
+    "goinstant-auth": "~1.0.5",
+    "prompt": "~0.2.12",
+    "cliparoo": "~1.0.0"
+  }
+}

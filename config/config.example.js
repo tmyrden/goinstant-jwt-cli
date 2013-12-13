@@ -1,0 +1,4 @@
+module.exports = {
+  APP_NAME: 'APP_SECRET_KEY',
+  ANOTHER_APP_NAME: 'ANOTHER_APP_SECRET_KEY'
+};
